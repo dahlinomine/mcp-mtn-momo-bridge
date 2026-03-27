@@ -1,0 +1,14 @@
+{
+  "name": "mcp-mtn-momo-bridge",
+  "version": "0.1.0",
+  "description": "An MCP server allowing AI agents to initiate and verify MTN MoMo payments across Africa.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
